@@ -33,4 +33,4 @@ understand form. Decision trees provide a clear indication of important attribut
 trees require less computation. They require less computation compared to other
 classification algorithms.
 
-![](Capture.jpg 100px)
+![](master/Capture.JPG 100px)
