@@ -32,3 +32,5 @@ They show effective association among the dataset attributes and represent in an
 understand form. Decision trees provide a clear indication of important attributes. Decision
 trees require less computation. They require less computation compared to other
 classification algorithms.
+
+![]Capture.jpg
